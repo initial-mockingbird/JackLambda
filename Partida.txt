@@ -1,0 +1,1 @@
+GS {juegosJugados = 2, victoriasLambda = 1, nombre = "Daniel", generador = 242998549 1, dinero = 130, objetivo = 150, apuesta = 50}
