@@ -10,7 +10,7 @@ Para buildear el proyecto basta con realizar: `stack build` en una terminal:
 
 <center>
 
-!['stack build'](./Imgs/build.png)
+!['stack build'](./Imgs/build.PNG)
 
 </center>
 
@@ -22,7 +22,7 @@ Finalmente, bastara con ejecutar `stack run` para correr el proyecto:
 
 <center>
 
-!['stack run'](./Imgs/run.png)
+!['stack run'](./Imgs/run.PNG)
 
 </center>
 
